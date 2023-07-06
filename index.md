@@ -7,4 +7,4 @@ feature_text: |
 
 There isn't much going on here yet, but watch this space
 
-I wonder if I can put my chess app here... :)
+This is another paragraph
