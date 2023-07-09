@@ -37,9 +37,9 @@ Is there a <br /> up there?
 >>Here's an indentation
 >One more sentence
 
-*List
-*item 2
-*item 3
+* List
+* item 2
+* item 3
 
 1. item1
 2. item2
