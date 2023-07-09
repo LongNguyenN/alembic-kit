@@ -31,11 +31,15 @@ This paragraph ends with two spaces
 Is there a <br /> up there?
 
 >block quote
+
 >In a woods two roads diverged
+
 >And I picked the one less taken by
 >And it made all the difference
 >>Here's an indentation
 >One more sentence
+
+>>spaced indentation
 
 * List
 * item 2
