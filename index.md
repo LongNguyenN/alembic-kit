@@ -51,8 +51,13 @@ Is there a <br /> up there?
     another code block
 
 horizonatal lines
+
 ***
 ---
+- - -
+- - - - -
+*****
+* * * * *
 
 [link](https://learnxinyminutes.com/docs/markdown/)
 
